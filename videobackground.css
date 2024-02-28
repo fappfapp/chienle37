@@ -1,0 +1,25 @@
+.video{
+    height: 2589px;
+    overflow: hidden;
+    position: relative;
+}
+
+#myVideo{
+    position: absolute;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.home-content{
+    position: absolute;
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    left: 0;
+    padding: 200px;
+    top: 0;    
+}
+
