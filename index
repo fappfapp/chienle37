@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="videobackground.css"/>
+    <title>Document</title>
+</head> 
+<body>
+    <div class="video">
+        <video autoplay muted loop id="myVideo">
+            <source src="d:\Hình ảnh\hình nền\y2mate.com - Live Wallpapers Her room_1080p.mp4 (2) (online-video-cutter.com).mp4" type="video/mp4">
+        </video>
+    </div>
+</body>
+<body>
+    <section class="home">
+        <div class="home-content">
+            <h1><span style="color: #faccb7">Hi, I'm Le Viet Chien</span></h1>
+            <h3><span style="color:goldenrod">A3K55 | THPT Chuyen Dai Hoc Vinh</span></h3>
+        </div>
+    </section>
+</body>
+</html>
+
